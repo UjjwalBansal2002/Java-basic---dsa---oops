@@ -52,6 +52,4 @@ public class Array {
         }
         return Arrays.toString(arr);
     }
-
-
 }
